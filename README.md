@@ -11,7 +11,7 @@ requires:
 https://github.com/chr15m/SyncJams
 http://www.droidparty.net/ 
 
-- android: install PdDroidparty apk (http://www.droidparty.net) and zip up the folder with your patch in it, renaming the file extension from .zip to .dpz. Send a .dpz file to somebody, then PdDroidParty will launch and run the patch..
+- android: install PdDroidparty apk (http://www.droidparty.net) and zip up the folder with your patch in it, renaming the file extension from .zip to .dpz. Send a .dpz file to the device (email, whatsapp, telegram ...) try to open it and PdDroidParty will launch and run the patch.
 
 usage:
 - in a computer: just open droidparty_main.pd in Pure Data
