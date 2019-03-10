@@ -10,9 +10,9 @@ Synclock is an atempt to create a chronometer that runs in sync in many devices 
 
 There are two versions:
 
-- synclock_jams: It uses the SyncJams to syncronise all devices in the network. The time is shared between all devices in the network. New devices join the count automatically on start/join button pressed.
+- synclock_jams: It uses the SyncJams to syncronise all devices in the network. The time is shared between all devices in the network. Any device can start/stop the chronometer. New devices joining the network automatically join the current chronometer (if already running).
 
-- synclock: This is a experimental version where a device acts as a master (press the master connect button) and broadcasts the time to the other devices in the network, which act like slaves. Any device can join at any time and it will be automatically in sync. The timer might be more flacky in this version. This version borrows some code from the nice SyncJams library (https://github.com/chr15m/SyncJams).
+- synclock: This is a experimental version where a device acts as a master (press the master connect button to become master) and broadcasts the time to the other devices in the network, which act like slaves. Any device can join at any time and it will be automatically in sync. The timer might be more flacky in this version. This version borrows some code from the nice SyncJams library (https://github.com/chr15m/SyncJams).
 
 
 
