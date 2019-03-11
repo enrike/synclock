@@ -1,6 +1,8 @@
 # synclock a0.1
 
-by ixi-audio.net 2019/03/10
+2019/03/10
+
+by ixi-audio.net and supported by the University of the Basque Country http://www.ehu.eus
 
 
 A chronometer that runs in sync in many devices at the same time (android and pcs). Developed in PureData
