@@ -29,7 +29,7 @@ The Synclock version also needs SyncJams https://github.com/chr15m/SyncJams
 - android + iOS: 
 1a. Android: Install the PdDroidparty apk (http://www.droidparty.net) 
 1b. iOS: Install PdParty (https://itunes.apple.com/app/id970528308)
-4. Send a synclock.dpz file to the device via email, whatsapp ... 
+4. Send a synclock.pdz file to the device via email, whatsapp ... 
 5. Try to open it. PdDroidParty/PdParty should run it.
 6. Press the start button in any of the devices to start the chronometer.
 6. From now on just run PdDroidParty/PdParty and it will offer you to open Synclock.
